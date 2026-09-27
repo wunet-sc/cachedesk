@@ -1,0 +1,32 @@
+Cache Desk Freeware License
+Version 1.0 — 27 September 2026
+Copyright (c) 2026 Wunet. All rights reserved.
+
+1. Free use
+Wunet permits you to download, install, and use the unmodified Cache Desk
+application free of charge for personal and business purposes.
+
+2. Sharing
+You may share the complete, unmodified release package at no charge, provided
+this license, the Wunet attribution, and the included notices remain intact.
+Linking to the official release page is preferred when one is available.
+
+3. Reserved rights
+Cache Desk is freeware, not open-source software. Source code is not publicly
+distributed. This license does not grant permission to sell or relicense the
+application, distribute modified copies, remove its attribution, or use the
+Wunet name to imply endorsement. Other rights are reserved by Wunet, subject
+to rights that applicable law does not allow a license to restrict.
+
+4. No warranty
+The application is provided "as is", without warranties of any kind to the
+extent permitted by applicable law. You are responsible for reviewing cleanup
+selections and maintaining backups. Deletion may be permanent.
+
+5. Liability
+To the extent permitted by applicable law, Wunet is not liable for loss of
+data, business interruption, or other damages arising from use of the
+application. This does not exclude liability that cannot lawfully be excluded.
+
+Microsoft Windows and the Microsoft .NET Framework are separate products
+governed by their respective terms. They are not included in this package.
